@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hadeel
-- 👀 I’m interested in data science, machine learning
-- 🌱 I love learning new things
+- 👀 I’m interested in data science, machine learning specifcally; Predictive Modeling & Data-Driven Solutions 
+- 🌱 Passionate About Leveraging Data for Innovation & Business Impact
 - 💞️ I’m looking to collaborate on building creative ML/DL models that bring business value
 - 📫 How to reach me alsaadonhadeel@gmail.com
 - ⚡ Always seek knowledge, is your most powerful weapon
