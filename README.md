@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Hadeel, full stack data scientist with master's in AI
-- 👀 I’m interested in data science, machine learning specifcally; Predictive Modeling & Data-Driven Solutions 
+- 👋 Hi, I’m Hadeel, Machine learnnning Engineer with master's in AI
+- 👀 I’m interested in data science, machine learning specifcally; MLOps, time-series and predictive Modeling
 - 🌱 Passionate About Leveraging Data for Innovation & Business Impact
-- 💞️ I’m looking to collaborate on building creative ML/DL models that bring business value
+- 💞️ I’m looking to collaborate on building creative ML systems models that bring business value
 - 📫 How to reach me alsaadonhadeel@gmail.com
 - ⚡ Always seek knowledge, it is your most powerful weapon
 
