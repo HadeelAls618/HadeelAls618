@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Hadeel, Machine learning Engineer with master's in AI
+- 👋 Hi, I’m Hadeel
 - 👀 I’m interested in data science, machine learning specifcally; MLOps, time-series and predictive Modeling
 - 🌱 Passionate About Leveraging Data for Innovation & Business Impact
 - 💞️ I’m looking to collaborate on building creative ML systems models that bring business value
