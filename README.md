@@ -1,13 +1,37 @@
-- 👋 Hi, I’m Hadeel
-- 👀 I’m interested in data science, machine learning specifcally; MLOps, time-series and predictive Modeling
-- 🌱 Passionate about leveraging data for innovation & business impact
-- 💞️ I’m looking to collaborate on building creative ML systems that bring business value
-- 📫 How to reach me alsaadonhadeel@gmail.com
-- ⚡ Always seek knowledge, it is your most powerful weapon
+# 👋 Hi, I’m Hadeel
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'M+Hadeel;I+Build+end+to+end+ML+Systems;Data+is+my+passion)](https://git.io/typing-svg)
+I'm a **Machine Learning Engineer & Data Scientist** with an MSc in Artificial Intelligence. I specialize in building **end-to-end ML systems** that drive business and environmental impact — with a focus on **MLOps, time-series forecasting, and predictive modeling**.
 
-  <!---
-HadeelAls618/HadeelAls618 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔍 I’m passionate about solving real-world problems through data and automation
+- ⚡ I build scalable ML pipelines — from data ingestion to deployment & monitoring
+- 💡 I'm especially interested in **sustainability**, **CI/CD for ML**, and **production-grade forecasting systems**
+- 🤝 I’m open to collaborating on creative ML projects that deliver real value
+- 📫 Reach me at: **alsaadonhadeel@gmail.com**
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+end-to-end+ML+systems;Data+is+my+superpower;Let’s+use+AI+for+good)](https://git.io/typing-svg)
+
+---
+
+### 🛠️ My Tech Toolbox
+
+**Languages & Tools:**  
+Python · SQL · PyTorch · Scikit-learn · LightGBM · XGBoost · Docker · Kubernetes · Git · AWS · Hopsworks · Spark · Streamlit · Power BI
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Electricity Demand Forecasting](https://github.com/HadeelAls618/electricity_demand_predictor) | Predicts hourly electricity demand using time-series ML pipelines with full automation & monitoring | Python, LightGBM, Hopsworks, Streamlit |
+| [Custalyze: CLV & Segmentation App](https://github.com/HadeelAls618/Customer-Analytics-Assistant) | Web app for predicting CLV, segmenting customers, and recommending products | Python, Streamlit, BG/NBD, KMeans |
+| [Student Performance Predictor](https://github.com/HadeelAls618/Student-performance-predictor) | End-to-end Flask app to predict student exam scores with CI/CD deployment | Flask, AWS, Docker, Scikit-learn |
+| [Retail Demand Forecasting](https://github.com/HadeelAls618/Demand-forecasting-system) | XGBoost-based forecasting system with a Streamlit frontend and BigQuery backend | XGBoost, BigQuery, Streamlit, SQL |
+
+---
+
+### 📈 Let’s Connect!
+
+I'm always open to collaborating on impactful ML projects or discussing AI for good.  
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hadeel-als/) or drop me an email!
+
