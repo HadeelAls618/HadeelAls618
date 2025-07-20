@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Hadeel
 
-I'm a **Machine Learning Engineer & Data Scientist** with an MSc in Artificial Intelligence. I specialize in building **end-to-end ML systems** that drive business and environmental impact — with a focus on **MLOps, time-series forecasting, and predictive modeling**.
+I'm a **Data Scientist & Machine Learning Engineer** with an MSc in Artificial Intelligence. I specialize in building **end-to-end ML systems** that drive business and environmental impact — with a focus on **MLOps, time-series forecasting, and predictive modeling**.
 
 - 🔍 I’m passionate about solving real-world problems through data and automation
 - ⚡ I build scalable ML pipelines — from data ingestion to deployment & monitoring
@@ -10,14 +10,12 @@ I'm a **Machine Learning Engineer & Data Scientist** with an MSc in Artificial I
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+end-to-end+ML+systems;Data+is+my+superpower;Let’s+use+AI+for+good)](https://git.io/typing-svg)
 
----
 
 ### 🛠️ My Tech Toolbox
 
 **Languages & Tools:**  
 Python · SQL · PyTorch · Scikit-learn · LightGBM · XGBoost · Docker · Kubernetes · Git · AWS · Hopsworks · Spark · Streamlit · Power BI
 
----
 
 ### 🚀 Featured Projects
 
@@ -28,9 +26,6 @@ Python · SQL · PyTorch · Scikit-learn · LightGBM · XGBoost · Docker · Kub
 | [Student Performance Predictor](https://github.com/HadeelAls618/Student-performance-predictor) | End-to-end Flask app to predict student exam scores with CI/CD deployment | Flask, AWS, Docker, Scikit-learn |
 | [Retail Demand Forecasting](https://github.com/HadeelAls618/Demand-forecasting-system) | XGBoost-based forecasting system with a Streamlit frontend and BigQuery backend | XGBoost, BigQuery, Streamlit, SQL |
 
----
-
-### 📈 Let’s Connect!
 
 I'm always open to collaborating on impactful ML projects or discussing AI for good.  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hadeel-als/) or drop me an email!
