@@ -1,20 +1,15 @@
-# 👋 Hi, I’m Hadeel
+#  Hi, I’m Hadeel 👋
 
 I'm a **Data Scientist & Machine Learning Engineer** with an MSc in Artificial Intelligence. I specialize in building **end-to-end ML systems** that drive business and environmental impact — with a focus on **MLOps, time-series forecasting, and predictive modeling**.
 
-- 🔍 I’m passionate about solving real-world problems through data and automation
-- ⚡ I build scalable ML pipelines — from data ingestion to deployment & monitoring
-- 💡 I'm especially interested in **sustainability**, **CI/CD for ML**, and **production-grade forecasting systems**
-- 🤝 I’m open to collaborating on creative ML projects that deliver real value
-- 📫 Reach me at: **alsaadonhadeel@gmail.com**
+-  I’m passionate about solving real-world problems through data and automation
+-  I build scalable ML pipelines — from data ingestion to deployment & monitoring
+-  I'm especially interested in **sustainability**, **CI/CD for ML**, and **production-grade forecasting systems**
+-  I’m open to collaborating on creative ML projects that deliver real value
+-  Reach me at: **alsaadonhadeel@gmail.com** 📫
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+end-to-end+ML+systems;Data+is+my+superpower;Let’s+use+AI+for+good)](https://git.io/typing-svg)
 
-
-### 🛠️ My Tech Toolbox
-
-**Languages & Tools:**  
-Python · SQL · PyTorch · Scikit-learn · LightGBM · XGBoost · Docker · Kubernetes · Git · AWS · Hopsworks · Spark · Streamlit · Power BI
 
 
 ### 🚀 Featured Projects
