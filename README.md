@@ -1,7 +1,8 @@
 #  Hi, I’m Hadeel 👋
 
-I'm a **Data Scientist & Machine Learning Engineer** with an MSc in Artificial Intelligence. I specialize in building **end-to-end ML systems** that drive business and environmental impact — with a focus on **MLOps, time-series forecasting, and predictive modeling**.
+I'm a **Data Scientist & Machine Learning Engineer**
 
+-  I specialize in building **end-to-end ML systems** that drive business and environmental impact
 -  I’m passionate about solving real-world problems through data and automation
 -  I build scalable ML pipelines — from data ingestion to deployment & monitoring
 -  I'm especially interested in **sustainability**, **CI/CD for ML**, and **production-grade forecasting systems**
