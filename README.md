@@ -8,7 +8,7 @@ I'm a **Data Scientist & Machine Learning Engineer** with an MSc in Artificial I
 -  I’m open to collaborating on creative ML projects that deliver real value
 -  Reach me at: **alsaadonhadeel@gmail.com** 📫
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+build+end-to-end+ML+systems;Data+is+my+superpower;Let’s+use+AI+for+good)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+is+my+superpower;Let’s+use+AI+for+good)](https://git.io/typing-svg)
 
 
 
