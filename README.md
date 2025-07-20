@@ -22,6 +22,3 @@ I'm a **Data Scientist & Machine Learning Engineer** with an MSc in Artificial I
 | [Retail Demand Forecasting](https://github.com/HadeelAls618/Demand-forecasting-system)                   | XGBoost-based forecasting system with a Streamlit frontend and BigQuery backend                     | Python, SQL, BigQuery,, XGBoost, Streamlit, AWS EC2                       |
 
 
-I'm always open to collaborating on impactful ML projects or discussing AI for good.  
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/hadeel-als/) or drop me an email!
-
