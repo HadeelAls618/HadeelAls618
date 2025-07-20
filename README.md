@@ -12,7 +12,7 @@ I'm a **Data Scientist & Machine Learning Engineer** with an MSc in Artificial I
 
 
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
