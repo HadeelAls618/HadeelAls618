@@ -5,11 +5,9 @@ I'm a **Data Scientist & Machine Learning Engineer**
 -  I specialize in building **end-to-end ML systems** that drive business and environmental impact
 -  I’m passionate about solving real-world problems through data and automation
 -  I build scalable ML pipelines — from data ingestion to deployment & monitoring
--  I'm especially interested in **sustainability**, **CI/CD for ML**, and **production-grade forecasting systems**
 -  I’m open to collaborating on creative ML projects that deliver real value
 -  Reach me at: **alsaadonhadeel@gmail.com** 📫
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Data+is+my+superpower;Let’s+use+AI+for+good)](https://git.io/typing-svg)
 
 
 
