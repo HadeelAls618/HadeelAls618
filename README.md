@@ -1,4 +1,4 @@
-#  Hi, I’m Hadeel 👋            
+#  Hi, I’m Hadeel 👋             
 
 I'm a **Data Scientist & Machine Learning Engineer**
 
